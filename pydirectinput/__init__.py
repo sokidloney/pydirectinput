@@ -568,3 +568,5 @@ def typewrite(message, interval=0.0, logScreenshot=None, _pause=True):
 write = typewrite
 
 # Missing feature: hotkey functions
+
+#og gogogogogo
